@@ -238,11 +238,11 @@ for more information.
     <h3>Day 2 (15th Oct)</h3>
     <table class="table table-striped">
       <tr> <td>12:30</td> <td>Welcome Back </td> </tr>
-      <tr> <td>12:35</td> <td>Motivation and Demotivation </td> </tr>
-      <tr> <td>13:50</td> <td>Mindset </td> </tr>
-      <tr> <td>14:30</td> <td>Break </td> </tr>
+      <tr> <td>12:40</td> <td>Motivation and Demotivation </td> </tr>
+      <tr> <td>14:10</td> <td>Mindset </td> </tr>
+      <tr> <td>14:40</td> <td>Break </td> </tr>
       <tr> <td>14:45</td> <td>Teaching is a Skill </td> </tr>
-      <tr> <td>15:45</td> <td>Homework for Tomorrow </td> </tr>
+      <tr> <td>16:10</td> <td>Homework for Tomorrow </td> </tr>
       <tr> <td>16:30</td> <td>Finish </td> </tr>
     </table>
   </div>
